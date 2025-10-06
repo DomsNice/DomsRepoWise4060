@@ -1,8 +1,8 @@
 // HiveMQ Serverless config
-const broker = "d2f277161aef4f56a41ef426746a4219.s1.eu.hivemq.cloud";
+const broker = "ad13c9d3eb1a4c53b4c7cffe6d4e3fad.s1.eu.hivemq.cloud";
 const port = 8884;
-const username = "user1";
-const password = "User1234";
+const username = "MQTTuser";
+const password = "MQ77u$er";
 
 let client;
 const devices = {};
